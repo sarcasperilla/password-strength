@@ -1,7 +1,7 @@
 # password-strength
 The purpose of this repository is to evaluate password's strength.
 
-**password.py module:**
+***password.py* module:**
 
     Contains code that determines whether a user-created password is "strong" based on the criteria:
   
