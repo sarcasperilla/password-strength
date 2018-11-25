@@ -4,17 +4,17 @@
 Created on Thu Nov 22 16:33:45 2018
 
 @author: michaelcasper
+"""
 
-Strong password detector to check if following conditions are met:
-    Quantity Condition: At least 8 characters
-    Case Condition: Contains both uppercase and lowercase letters
-    Digit Condition: Contains at least one digit
+# Strong password detector to check if following conditions are met:
+#    Quantity Condition: At least 8 characters
+#    Case Condition: Contains both uppercase and lowercase letters
+#    Digit Condition: Contains at least one digit
 
-User is prompted to input their desired password, which will be checked
-against the above three conditions.
+# User is prompted to input their desired password, which will be checked
+# against the above three conditions.
 
 To use, call create_strong_password() function
-"""
 
 import re
 
